@@ -1,0 +1,20 @@
+
+I Am Rich
+
+I Am Rich was an iOS mobile application developed by Armin Heinrich that was distributed through the App Store. The App contained only a glowing red ruby and an icon , when pressed on it , displayed the following mantra in large text:
+1. I am rich
+2. I deserv it
+3. I am good
+4. healthy & successful
+
+I Am Rich was sold on the App Store for US$999.99.The highest price Apple allowed for App Store content.
+
+Eight people bought the application, at least one of whom claimed to have done so accidentally. 
+
+The application was removed from the App Store without explanation by Apple Inc. 
+
+
+our plan 
+1. setup a flutter dev enverments 
+2. setup app icon for androied and iso. 
+3. show a roby on a disply and makeit clickable and  show messages. 
