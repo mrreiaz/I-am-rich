@@ -18,3 +18,33 @@ our plan
 1. setup a flutter dev enverments 
 2. setup app icon for androied and iso. 
 3. show a roby on a disply and makeit clickable and  show messages. 
+
+
+
+#   What is Scaffol 
+Scaffold is a class in flutter which provides many widgets or we can say APIs like Drawer, SnackBar, BottomNavigationBar, FloatingActionButton, AppBar, etc. Scaffold will expand or occupy the whole device screen. It will occupy the available space.
+
+The Scaffold is a widget in Flutter used to implements the basic material design visual layout structure.
+
+A Scaffold Widget provides a framework which implements the basic material design visual layout structure of the flutter app. It provides APIs for showing drawers, snack bars and bottom sheets. Have a look at its constructor and the properties it has. 
+
+
+AppBar
+The top app bar provides content and actions related to the current screen. It's used for branding, screen titles, navigation, and actions.
+
+we can change its Properties
+
+How ot change ths Appbar properties  ? 
+
+wright the properties name and set a value. 
+backgroundColor:  Colors.green,
+
+As we know flutter is widget under the widget and so on ... 
+
+So use the Scaffold body properties , need a widget. 
+
+body: Text('This is bod.')
+
+https://api.flutter.dev/flutter/material/AppBar-class.html
+
+
