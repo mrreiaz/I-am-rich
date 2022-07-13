@@ -63,6 +63,23 @@ Note it is very very improdent to folow the right indentation , other weys yaml 
 yaml is a special type of text file which is use for configurings. Like as flutter project configur.
 
 
+App Icons
+ How to Add App Icons to the iOS and Android Projects
+
+ go to https://appicon.co/ uplode your image and genarate app icon  for your app. 
+
+ in the file name section give fiel name ic_launcher.png
+ then click geberate. 
+
+then go to Android->app->src->main->res->
+and replace mipmap-hdpi,mipmap-mdpi,mipmap-xhdpi,mipmap-xxhdpi,mipmap-xxxhdpi foldes. 
+
+Ios app icons 
+go to ios->Runner->Assets.xcassets->AppIcon.appiconset
+and replace all images 
+
+
+
 
 
 
