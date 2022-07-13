@@ -47,4 +47,22 @@ body: Text('This is bod.')
 
 https://api.flutter.dev/flutter/material/AppBar-class.html
 
+use assets like images , video, fonts etc. 
+
+cretae a assets folders and put all files. Then inside the pubspec.yaml file register assets to use it on the apps. 
+
+goto the pubspec.yaml slecte 
+  assets:
+    - images/a_dot_burr.jpeg
+    click 
+    ctrl + / 
+then inside assets: give your assets path
+
+Note it is very very improdent to folow the right indentation , other weys yaml file will not be work. 
+
+yaml is a special type of text file which is use for configurings. Like as flutter project configur.
+
+
+
+
 
