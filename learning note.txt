@@ -47,4 +47,41 @@ body: Text('This is bod.')
 
 https://api.flutter.dev/flutter/material/AppBar-class.html
 
+use assets like images , video, fonts etc. 
+
+cretae a assets folders and put all files. Then inside the pubspec.yaml file register assets to use it on the apps. 
+
+goto the pubspec.yaml slecte 
+  assets:
+    - images/a_dot_burr.jpeg
+    click 
+    ctrl + / 
+then inside assets: give your assets path
+
+Note it is very very improdent to folow the right indentation , other weys yaml file will not be work. 
+
+yaml is a special type of text file which is use for configurings. Like as flutter project configur.
+
+
+App Icons
+ How to Add App Icons to the iOS and Android Projects
+
+ go to https://appicon.co/ uplode your image and genarate app icon  for your app. 
+
+ in the file name section give fiel name ic_launcher.png
+ then click geberate. 
+
+then go to Android->app->src->main->res->
+and replace mipmap-hdpi,mipmap-mdpi,mipmap-xhdpi,mipmap-xxhdpi,mipmap-xxxhdpi foldes. 
+
+Ios app icons 
+go to ios->Runner->Assets.xcassets->AppIcon.appiconset
+and replace all images 
+
+
+
+
+
+
+
 
